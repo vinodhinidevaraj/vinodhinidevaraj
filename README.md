@@ -1,6 +1,6 @@
 ### 👋 Welcome to My GitHub Profile
 
-I'm Vinodhini Devaraj, an experienced Data Analyst based in London with a passion for turning data into actionable insights. With a Master's degree in Data Analytics from Aston University (Birmingham) and over five years of experience in the field, I specialize in SQL, Python, and advanced data visualization tools like Power BI and Tableau.
+I'm Vinodhini Devaraj, an experienced Data Analyst based in London with a passion for turning data into actionable insights. With a Master's degree in Data Analytics from Aston University and over five years of experience in the field, I specialize in SQL, Python, and advanced data visualization tools like Power BI and Tableau.
 
 🚀 **My Skillset and Projects:**
 I have a robust background in machine learning and artificial neural networks, where I've developed and trained models for various applications, including predictive analytics and image recognition. My technical toolkit includes SQL databases (Oracle, MS SQL, PostgreSQL), programming languages (Python, R, MATLAB), and data visualization platforms (Power BI, Tableau, Alteryx).
